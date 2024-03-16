@@ -1,0 +1,28 @@
+.form {
+  border: 1px solid #000000;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.btn {
+  text-align: center;
+}
+
+.error-text {
+  font-size: small;
+  color: red;
+  margin: 0;
+}
+
+.input {
+  width: 100%;
+}

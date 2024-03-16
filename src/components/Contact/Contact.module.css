@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+
+  row-gap: 5px;
+}
+
+.wrapper-for-item {
+  width: 100%;
+}
+
+.text {
+  display: inline;
+  margin: 0;
+  margin-left: 5px;
+}
+
+.btn {
+  height: 50%;
+  align-self: center;
+}
